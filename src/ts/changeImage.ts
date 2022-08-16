@@ -1,3 +1,7 @@
+// TODO: change types
+
+// TODO: compress the images (are so big)
+
 export const changeImage = (element: any, images: string[]): void => {
   console.log(element)
 
